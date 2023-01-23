@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <style>
+        img{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+        }
+        .name{
+            background-color: gray;
+        }
+
+    </style>
+
+    <div class="name">
+    <h1><center> Dr. Norman Borlaug </center></h1>
+    <h4><center> The man who saved a Billion lifes </center></h4>
+    </div>
+    <a href="https://en.wikipedia.org/wiki/Norman_Borlaug">
+    <img src="C:\Users\ASWIN\Downloads\dr norman borlaug.jpg">
+    </a>
+    <h2> <ins> Who is dr.Norman Borlaug </ins></h2>
+    <p><center> For fifty-two years, Dr. Norman Borlaug has been helping to provide more food to the most needy areas of the world. But perhaps of greater importance, this distinguished scientist-philosopher has been demonstrating practical ways to give people of the entire world a higher quality of life ...
+
+        The passion that drives Dr. Borlaug's life is an inspiration for all of us to follow. Since 1986, we've worked together through Global 2000 of The Carter Center and the Sasakawa Africa Association to help small-scale farmers to improve agricultural productivity and crop quality, sometimes two or even threefold. It has been an honor to collaborate with Dr. Borlaug. He is a true humanitarian and a dear friend.<br>
+        The passion that drives Dr. Borlaug's life is an inspiration for all of us to follow. Since 1986, we've worked together through Global 2000 of The Carter Center and the Sasakawa Africa Association to help small-scale farmers to improve agricultural productivity and crop quality, sometimes two or even threefold. It has been an honor to collaborate with Dr. Borlaug. He is a true humanitarian and a dear friend.<br>
+        Borlaug is one of the great humanitarians of the 20th Century - and winner of the Nobel Peace Prize in 1970 for a lifetime of work feeding a hungry world. The breeds of wheat he developed - with strong disease resistance, high yield <ins> potential and the ability to withstand poor growing conditions - led the "Green Revolution" that saved literally hundreds of millions of lives in developing nations that were prone to terrible famines.</ins>
+    </center> </p>
+    <img src="C:\Users\ASWIN\Downloads\Norman-Borlaug-1970.jpg" height="600px" width="600px" >
+    <p> <center> He is credited with starting the Green Revolution in the mid-1960s and saving millions of lives from starvation. Since 1984, he has been a professor of international agriculture at Texas A&M, where he teaches one semester every year. But he is by no means semi-retired. At 86, he remains as active as ever - carrying his brand of prairie pragmatism to fight hunger around the world and in the classroom. Think big. Fight complacency. That is the essence of his message, whether he's talking to heads of state or college freshmen.
+        Scientist. Teacher. Humanitarian. Nobel Laureate. Father of the Green Revolution. Those terms describe Dr. Norman Borlaug, who is distinguished professor of international agriculture at Texas A&M University, but they can't possibly capture the magnitude of his accomplishments.
+     </center></p>
+     <img src="C:\Users\ASWIN\Downloads\Borlaug-quote.png">
+    
+</body>
+</html>
